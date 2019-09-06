@@ -1,0 +1,1 @@
+print(math.floor(20 - 12.7 - 7.3))
